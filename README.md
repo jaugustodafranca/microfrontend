@@ -4,19 +4,19 @@ This is an example of micro frontend using single-spa.
 
 ### Run:
 
-- Start the **Vue** and confirm if will run on the port 8080:
+- Start the **Vue** and confirm if will run on the port 8001:
 
 ```sh
 $ yarn install && yarn serve
 ```
 
-- Start the **React** and confirm if will run on the port 8081:
+- Start the **React** and confirm if will run on the port 8002:
 
 ```sh
 $ yarn install && yarn start
 ```
 
-- Start the **Angular** and confirm if will run on the port 4200:
+- Start the **Angular** and confirm if will run on the port 8003:
 
 ```sh
 $ npm install && npm run serve:single-spa:angular-single
